@@ -1,0 +1,21 @@
+*****
+- Respawn coordinates in GameHandler.cs
+- Manage Ground/End as Walkables
+- Victory menu: go to next level
+
+****
+- MORE LEVELS
+- Restart button sprite + shift it more to top left
+
+***
+- Environment (door, rope, button...)
+- Enemies
+
+**
+- Save data
+- Animations (Walljump, jump, victory...)
+- Sprites (singe, banane, terrain, bouttons...)
+- Money
+
+*
+- Skins (pirate, orang-outan, perroquet, otarie, poulpe...)
